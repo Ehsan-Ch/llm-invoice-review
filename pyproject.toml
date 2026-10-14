@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "llm-invoice-review"
+version = "1.0.0"
+description = "Local LLM invoice extraction with evidence, arithmetic checks and an auditable review queue"
+requires-python = ">=3.11"
+dependencies = []
+[project.scripts]
+invoice-review = "invoice_review.cli:main"
+[tool.setuptools.packages.find]
+include = ["invoice_review*"]
+[tool.setuptools.package-data]
+invoice_review = ["*.html", "data/*.json"]

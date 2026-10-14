@@ -1,0 +1,9 @@
+FICTIONAL INVOICE - evaluation fixture only
+Supplier: Fjord Paper Studio
+Invoice number: DEMO-113
+Issued on: 2026-09-01
+Pay by: 2026-09-30
+Invoice currency: DKK
+Net amount: 100.00
+VAT: 25.00
+Amount due: 130.00

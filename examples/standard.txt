@@ -1,0 +1,9 @@
+FICTIONAL INVOICE - evaluation fixture only
+Vendor: Fjord Paper Studio
+Invoice ID: DEMO-104
+Invoice date: 2026-09-01
+Due date: 2026-09-30
+Currency: DKK
+Subtotal: 100.00
+Tax: 25.00
+Total: 125.00

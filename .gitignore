@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.egg-info/
+*.sqlite*
+*.db
+private-inputs/
+runtime/
+models/
+reports/custom/
+build/
+dist/
